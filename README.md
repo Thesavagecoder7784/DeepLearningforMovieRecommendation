@@ -1,4 +1,4 @@
-# Deep Learning for Movie Recommendation 
+# Deep Learning for Movie Recommendation 🎥🍿 
 
 A movie recommendation engine implemented with TensorFlow Recommendation (TFRS) library. The system is trained on a dataset of movie ratings, and is able to make recommendations for a particular user based on their previous ratings.
 
