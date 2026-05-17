@@ -1,5 +1,7 @@
 # Deep Learning for Movie Recommendation 🎥🍿 
 
+Cited in: Lavreniuk and Potapova (2025). Applied Information Technologies, Vasyl' Stus Donetsk National University. [Link to JAIT article](https://jait.donnu.edu.ua/article/view/17040)
+
 A movie recommendation engine implemented with TensorFlow Recommendation (TFRS) library. The system is trained on a dataset of movie ratings, and is able to make recommendations for a particular user based on their previous ratings.
 
 ## Data 
